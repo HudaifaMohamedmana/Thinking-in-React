@@ -36,3 +36,4 @@ const PRODUCTS = [
         name: "Peas" 
     }
   ];
+  export default PRODUCTS
